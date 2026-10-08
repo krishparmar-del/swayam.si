@@ -1,0 +1,8 @@
+{
+  "name": "Remix SWAYAM.SI - Opportunity \u0026 Eligibility Navigator",
+  "description": "India-focused opportunity and eligibility navigator for competitive exams and government welfare schemes. Understand, match, prepare, and act.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
